@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CAPAS_DAL\CAPAS_DAL.csproj" />
+    <ProjectReference Include="..\CAPAS_Models\CAPAS_Models.csproj" />
+  </ItemGroup>
+
+</Project>
